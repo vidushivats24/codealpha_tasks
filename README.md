@@ -1,5 +1,6 @@
 # codealpha_tasks
 "CodeAlpha Internship Python Tasks and Projects."
+
 This repository contains Python projects completed during my CodeAlpha Internship.
 
 ## Tasks
